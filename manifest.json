@@ -23,13 +23,13 @@
 
   "screenshots": [
   {
-    "src": "icons/screen borrar.png",
+    "src": "icons/screenBorrar.png",
     "sizes": "701x380",
     "type": "image/png",
     "form_factor": "wide"
   },
   {
-    "src": "icons/screen borrar.png",
+    "src": "icons/screenBorrar.png",
     "sizes": "701x380",
     "type": "image/png"
   }
