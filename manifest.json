@@ -1,8 +1,8 @@
 {
-  "name": "mentrual cycle tracker",
-  "short_name": "cycle tracker",
+  "name": "Menstrual Cycle Tracker",
+  "short_name": "Cycle Tracker",
   "description": "A simple menstrual cycle tracker",
-  "start_url": "",
+  "start_url": "/index.html",
   "theme_color": "#ff4081",
   "background_color": "#ffffff",
   "display": "standalone",
